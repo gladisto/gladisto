@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do gladisto 😁
+## Bem-vindo(a) ao perfil do gladistone 😁
 
  <div>
    <a href="https://github.com/gladisto">
